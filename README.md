@@ -35,18 +35,24 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 # Uses Delphi AST:
+Copyright (c) 2014-2015 Roman Yankovsky
+DelphiAST is released under the Mozilla Public License, v. 2.0
 https://github.com/RomanYankovsky/DelphiAST
 
 # Uses JsonDataObjects:
+Copyright (c) 2015 Andreas Hausladen
+The MIT License (MIT)
 https://github.com/ahausladen/JsonDataObjects
 
 # Uses OXml:
 Ondrej Pokorny, Kluug.net
 This software uses OXml by Kluug.net.
+CPAL 1.0 or commercial
 http://www.kluug.net/oxml.php
 
 # Uses SvCollections.Tries:
 Copyright (c) 2012, Linas Naginionis
 
-# Uses TMS Pack for Firemonkey
+# Requires TMS Pack for Firemonkey
+Copyright © 2013 - 2015 TMS Software 
 https://www.tmssoftware.com/site/tmsfmxpack.asp
