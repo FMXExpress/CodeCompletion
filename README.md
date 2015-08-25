@@ -33,6 +33,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 # Uses Delphi AST:
 https://github.com/RomanYankovsky/DelphiAST
 
+# Uses JsonDataObjects:
+https://github.com/ahausladen/JsonDataObjects
+
 # Uses OXml:
 Ondrej Pokorny, Kluug.net
 This software uses OXml by Kluug.net.
