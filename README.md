@@ -1,5 +1,5 @@
 # CodeCompletion
-Object Pascal code completion engine.
+Object Pascal code completion engine for Delphi XE8 Firemonkey.
 
 Parses the uses section of an Object Pascal source file and resolves the units via Delphi AST into a code completion system.
 
