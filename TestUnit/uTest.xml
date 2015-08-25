@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<UNIT line="1" col="1" name="uTest">
+  <INTERFACE line="3" col="1">
+    <TYPESECTION line="4" col="1">
+      <TYPEDECL line="5" col="5" name="TTestClass">
+        <TYPE line="5" col="18" type="class"/>
+      </TYPEDECL>
+      <TYPEDECL line="9" col="5" name="TNewTestClass">
+        <TYPE line="9" col="21" type="class">
+          <TYPE line="9" col="27" name="TTestClass"/>
+        </TYPE>
+      </TYPEDECL>
+      <TYPEDECL line="13" col="5" name="TTestClassHelper">
+        <TYPE line="13" col="24" type="class">
+          <TYPE line="13" col="41" name="TTestClass"/>
+        </TYPE>
+      </TYPEDECL>
+    </TYPESECTION>
+  </INTERFACE>
+  <IMPLEMENTATION line="16" col="1"/>
+</UNIT>
