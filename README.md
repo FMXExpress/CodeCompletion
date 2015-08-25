@@ -52,6 +52,7 @@ http://www.kluug.net/oxml.php
 
 # Uses SvCollections.Tries:
 Copyright (c) 2012, Linas Naginionis
+https://bitbucket.org/soundvibe/delphi-oop
 
 # Requires TMS Pack for Firemonkey
 Copyright © 2013 - 2015 TMS Software 
